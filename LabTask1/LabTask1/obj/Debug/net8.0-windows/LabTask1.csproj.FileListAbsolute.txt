@@ -1,0 +1,17 @@
+C:\Efty\Try C# Codes\LabTask1\LabTask1\bin\Debug\net8.0-windows\LabTask1.exe
+C:\Efty\Try C# Codes\LabTask1\LabTask1\bin\Debug\net8.0-windows\LabTask1.deps.json
+C:\Efty\Try C# Codes\LabTask1\LabTask1\bin\Debug\net8.0-windows\LabTask1.runtimeconfig.json
+C:\Efty\Try C# Codes\LabTask1\LabTask1\bin\Debug\net8.0-windows\LabTask1.dll
+C:\Efty\Try C# Codes\LabTask1\LabTask1\bin\Debug\net8.0-windows\LabTask1.pdb
+C:\Efty\Try C# Codes\LabTask1\LabTask1\obj\Debug\net8.0-windows\LabTask1.csproj.GenerateResource.cache
+C:\Efty\Try C# Codes\LabTask1\LabTask1\obj\Debug\net8.0-windows\LabTask1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Efty\Try C# Codes\LabTask1\LabTask1\obj\Debug\net8.0-windows\LabTask1.AssemblyInfoInputs.cache
+C:\Efty\Try C# Codes\LabTask1\LabTask1\obj\Debug\net8.0-windows\LabTask1.AssemblyInfo.cs
+C:\Efty\Try C# Codes\LabTask1\LabTask1\obj\Debug\net8.0-windows\LabTask1.csproj.CoreCompileInputs.cache
+C:\Efty\Try C# Codes\LabTask1\LabTask1\obj\Debug\net8.0-windows\LabTask1.dll
+C:\Efty\Try C# Codes\LabTask1\LabTask1\obj\Debug\net8.0-windows\refint\LabTask1.dll
+C:\Efty\Try C# Codes\LabTask1\LabTask1\obj\Debug\net8.0-windows\LabTask1.pdb
+C:\Efty\Try C# Codes\LabTask1\LabTask1\obj\Debug\net8.0-windows\LabTask1.genruntimeconfig.cache
+C:\Efty\Try C# Codes\LabTask1\LabTask1\obj\Debug\net8.0-windows\ref\LabTask1.dll
+C:\Efty\Try C# Codes\LabTask1\LabTask1\obj\Debug\net8.0-windows\LabTask1.Form2.resources
+C:\Efty\Try C# Codes\LabTask1\LabTask1\obj\Debug\net8.0-windows\LabTask1.Form1.resources

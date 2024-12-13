@@ -1,0 +1,7 @@
+C:\Efty\Try C# Codes\StudentInfoStruct\StudentInfoStruct\obj\Debug\StudentInfoStruct.csproj.AssemblyReference.cache
+C:\Efty\Try C# Codes\StudentInfoStruct\StudentInfoStruct\obj\Debug\StudentInfoStruct.csproj.CoreCompileInputs.cache
+C:\Efty\Try C# Codes\StudentInfoStruct\StudentInfoStruct\bin\Debug\StudentInfoStruct.exe.config
+C:\Efty\Try C# Codes\StudentInfoStruct\StudentInfoStruct\bin\Debug\StudentInfoStruct.exe
+C:\Efty\Try C# Codes\StudentInfoStruct\StudentInfoStruct\bin\Debug\StudentInfoStruct.pdb
+C:\Efty\Try C# Codes\StudentInfoStruct\StudentInfoStruct\obj\Debug\StudentInfoStruct.exe
+C:\Efty\Try C# Codes\StudentInfoStruct\StudentInfoStruct\obj\Debug\StudentInfoStruct.pdb

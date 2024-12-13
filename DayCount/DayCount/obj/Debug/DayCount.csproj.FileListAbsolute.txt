@@ -1,0 +1,7 @@
+C:\Efty\Try C# Codes\DayCount\DayCount\obj\Debug\DayCount.csproj.AssemblyReference.cache
+C:\Efty\Try C# Codes\DayCount\DayCount\obj\Debug\DayCount.csproj.CoreCompileInputs.cache
+C:\Efty\Try C# Codes\DayCount\DayCount\bin\Debug\DayCount.exe.config
+C:\Efty\Try C# Codes\DayCount\DayCount\bin\Debug\DayCount.exe
+C:\Efty\Try C# Codes\DayCount\DayCount\bin\Debug\DayCount.pdb
+C:\Efty\Try C# Codes\DayCount\DayCount\obj\Debug\DayCount.exe
+C:\Efty\Try C# Codes\DayCount\DayCount\obj\Debug\DayCount.pdb

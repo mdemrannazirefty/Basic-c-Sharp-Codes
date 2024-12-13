@@ -1,0 +1,7 @@
+C:\Efty\Try C# Codes\Book\Book\obj\Debug\Book.csproj.AssemblyReference.cache
+C:\Efty\Try C# Codes\Book\Book\obj\Debug\Book.csproj.CoreCompileInputs.cache
+C:\Efty\Try C# Codes\Book\Book\bin\Debug\Book.exe.config
+C:\Efty\Try C# Codes\Book\Book\bin\Debug\Book.exe
+C:\Efty\Try C# Codes\Book\Book\bin\Debug\Book.pdb
+C:\Efty\Try C# Codes\Book\Book\obj\Debug\Book.exe
+C:\Efty\Try C# Codes\Book\Book\obj\Debug\Book.pdb

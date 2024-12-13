@@ -1,0 +1,7 @@
+C:\Efty\Try C# Codes\c1\c1\bin\Debug\c1.exe.config
+C:\Efty\Try C# Codes\c1\c1\bin\Debug\c1.exe
+C:\Efty\Try C# Codes\c1\c1\bin\Debug\c1.pdb
+C:\Efty\Try C# Codes\c1\c1\obj\Debug\c1.csproj.AssemblyReference.cache
+C:\Efty\Try C# Codes\c1\c1\obj\Debug\c1.csproj.CoreCompileInputs.cache
+C:\Efty\Try C# Codes\c1\c1\obj\Debug\c1.exe
+C:\Efty\Try C# Codes\c1\c1\obj\Debug\c1.pdb

@@ -1,0 +1,14 @@
+D:\xtra\tryInheritance\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\xtra\tryInheritance\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\xtra\tryInheritance\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\xtra\tryInheritance\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+D:\xtra\tryInheritance\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\xtra\tryInheritance\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\xtra\tryInheritance\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\mdemr\Downloads\02692-OBJECT ORIENTED PROGRAMMING 2 [P]\02692-OBJECT ORIENTED PROGRAMMING 2 [P]\tryInheritance\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\mdemr\Downloads\02692-OBJECT ORIENTED PROGRAMMING 2 [P]\02692-OBJECT ORIENTED PROGRAMMING 2 [P]\tryInheritance\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\mdemr\Downloads\02692-OBJECT ORIENTED PROGRAMMING 2 [P]\02692-OBJECT ORIENTED PROGRAMMING 2 [P]\tryInheritance\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\mdemr\Downloads\02692-OBJECT ORIENTED PROGRAMMING 2 [P]\02692-OBJECT ORIENTED PROGRAMMING 2 [P]\tryInheritance\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\mdemr\Downloads\02692-OBJECT ORIENTED PROGRAMMING 2 [P]\02692-OBJECT ORIENTED PROGRAMMING 2 [P]\tryInheritance\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\mdemr\Downloads\02692-OBJECT ORIENTED PROGRAMMING 2 [P]\02692-OBJECT ORIENTED PROGRAMMING 2 [P]\tryInheritance\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\mdemr\Downloads\02692-OBJECT ORIENTED PROGRAMMING 2 [P]\02692-OBJECT ORIENTED PROGRAMMING 2 [P]\tryInheritance\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
